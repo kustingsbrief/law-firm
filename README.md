@@ -1,2 +1,2 @@
 # law-firm
-attemot at a company website
+attempt at a company website
